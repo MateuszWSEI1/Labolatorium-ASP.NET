@@ -1,0 +1,26 @@
+@model Dictionary<int, Labolatorium_1.Models.Reservation>
+
+<h2>Lista rezerwacji</h2>
+
+<table class="table">
+    <tr>
+        <th>Miasto</th>
+        <th>Pokój</th>
+        <th>Właściciel</th>
+        <th>Akcje</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Value.City</td>
+            <td>@item.Value.Room</td>
+            <td>@item.Value.Owner</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Value.Id">Edytuj</a>
+                <a asp-action="Details" asp-route-id="@item.Value.Id">Szczegóły</a>
+                <a asp-action="Delete" asp-route-id="@item.Value.Id">Usuń</a>
+            </td>
+        </tr>
+    }
+</table>

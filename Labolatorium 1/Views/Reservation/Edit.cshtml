@@ -1,0 +1,44 @@
+@model Labolatorium_1.Models.Reservation
+
+<form asp-action="Edit" method="post">
+    <input asp-for="Id" type="hidden" />
+
+    <div>
+        <label asp-for="City"></label>
+        <input asp-for="City" />
+        <span asp-validation-for="City"></span>
+    </div>
+
+    <div>
+        <label asp-for="Address"></label>
+        <input asp-for="Address" />
+        <span asp-validation-for="Address"></span>
+    </div>
+
+    <div>
+        <label asp-for="Room"></label>
+        <input asp-for="Room" />
+        <span asp-validation-for="Room"></span>
+    </div>
+
+    <div>
+        <label asp-for="Owner"></label>
+        <input asp-for="Owner" />
+        <span asp-validation-for="Owner"></span>
+    </div>
+
+    <div>
+        <label asp-for="Date"></label>
+        <input asp-for="Date" />
+        <span asp-validation-for="Date"></span>
+    </div>
+
+    <div>
+        <label asp-for="Price"></label>
+        <input asp-for="Price" />
+        <span asp-validation-for="Price"></span>
+    </div>
+
+    <button type="submit">Zapisz</button>
+    <a asp-action="Index">Anuluj</a>
+</form>
