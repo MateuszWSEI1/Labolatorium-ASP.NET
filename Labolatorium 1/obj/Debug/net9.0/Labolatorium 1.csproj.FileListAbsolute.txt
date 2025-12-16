@@ -1,0 +1,97 @@
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\bin\Debug\net9.0\appsettings.json
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\bin\Debug\net9.0\Labolatorium 1.staticwebassets.runtime.json
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\bin\Debug\net9.0\Labolatorium 1.staticwebassets.endpoints.json
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\bin\Debug\net9.0\Labolatorium 1.exe
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\bin\Debug\net9.0\Labolatorium 1.deps.json
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\bin\Debug\net9.0\Labolatorium 1.runtimeconfig.json
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\bin\Debug\net9.0\Labolatorium 1.dll
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\bin\Debug\net9.0\Labolatorium 1.pdb
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\Labolatorium 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\Labolatorium 1.AssemblyInfoInputs.cache
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\Labolatorium 1.AssemblyInfo.cs
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\Labolatorium 1.csproj.CoreCompileInputs.cache
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\Labolatorium 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\Labolatorium 1.RazorAssemblyInfo.cache
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\Labolatorium 1.RazorAssemblyInfo.cs
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\scopedcss\bundle\Labolatorium 1.styles.css
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\scopedcss\projectbundle\Labolatorium 1.bundle.scp.css
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\l7vs0m0lyw-b9sayid5wm.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\5qahld9zbz-61n19gt1b8.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\lvcdzy2nx5-xtxxf3hu2r.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\k3f4r04edi-t1cqhe9u97.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\xunb45vn4w-c2jlpeoesf.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\swqt5cd39x-sejl45xvog.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\cxs55lijlv-aexeepp0ev.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\3998ccrg9u-xvp3kq03qx.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\dk6kvoqsrj-ausgxo2sd3.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\yslcxubfqv-22vffe00uq.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\gidf7mfpx4-cosvhxvwiu.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\f0u9rjbu27-qesaa3a1fm.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\ypkn3r6bo2-fvhpjtyr6v.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\jk0yks1rek-tmc1g35s3z.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\0bxkhrcprj-fsbi9cje9m.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\loaskqgq2j-rxsg74s51o.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\h8yh02ttxe-ee0r1s7dh0.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\5b4uk43zzw-q9ht133ko3.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\poicr54bi4-jd9uben2k1.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\jf6g917gqh-gye83jo8yx.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\6hb4i5mpwn-r4e9w2rdcm.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\2aiosxkprj-wl58j5mj3v.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\jdj20o6ahq-c2oey78nd0.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\1j0jje3y11-d4r6k3f320.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\ttz2g1l5os-j5mq2jizvt.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\spupi6vdly-keugtjm085.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\z9y5rwd0nv-nvvlpmu67g.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\wdjuji1k1i-zub09dkrxp.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\pjhimttffe-pj5nd1wqec.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\j1cpqhg1e5-43atpzeawx.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\klgqf7u3lx-v0zj4ognzu.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\w0bqg84ubf-ynyaa8k90p.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\113n7vmloy-hrwsygsryq.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\5k0aj8f60y-c63t5i9ira.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\chzihoxrc2-ft3s53vfgj.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\j2apida5gv-4094rpi4f9.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\4nswpxsfiq-6pdc2jztkx.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\v6ut9liq2h-hd3gran6i8.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\l9rh2tkafb-iovd86k7lj.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\1ior69f9ld-ltid2c489k.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\fxza2tq9w0-kbrnm935zg.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\lda5bqjmwx-8vyfqsqgz1.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\qo9125gomj-y7v9cxd14o.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\1oq3lm28rk-u9q1upor1n.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\4cxi8y8eie-h1s4sie4z3.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\osyu2ibnyt-4d85u1mtcx.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\ye1jhg6nj2-0j3bgjxly4.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\zuc8tt5vuy-03hjc8e09r.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\xy6fsj8kfv-48y08845bh.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\6odiebz2e7-356vix0kms.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\0kkl7mscbb-83jwlth58m.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\wyga6lr21e-mrlpezrjn3.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\3h51mf3af5-worgj0nhwm.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\df95cagjl9-gk0pw8i4co.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\krutqp1qgf-x0q3zqp4vz.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\fvsp74h50a-d6nrnj6jjx.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\4aqq0f2919-m9qm4tazc0.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\he19v71z34-ttgo8qnofa.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\8ofm0760qh-jjsuc0puko.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\ootmc546ql-9vr69e8ynj.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\awywbbqy6y-87fc7y1x7t.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\udhb78jaro-mlv21k5csn.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\saf41ws2md-vgmbnbkcdr.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\compressed\kxmw4vm4ml-vgmbnbkcdr.gz
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\staticwebassets\msbuild.Labolatorium 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\staticwebassets\msbuild.Labolatorium 1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\staticwebassets\msbuild.build.Labolatorium 1.props
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Labolatorium 1.props
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Labolatorium 1.props
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\Labolatorium 1.dll
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\refint\Labolatorium 1.dll
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\Labolatorium 1.pdb
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\Labolatorium 1.genruntimeconfig.cache
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\ref\Labolatorium 1.dll
