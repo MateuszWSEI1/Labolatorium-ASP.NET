@@ -95,3 +95,4 @@ C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\refi
 C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\Labolatorium 1.pdb
 C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\Labolatorium 1.genruntimeconfig.cache
 C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\ref\Labolatorium 1.dll
+C:\Users\mamec\RiderProjects\Labolatorium 1\Labolatorium 1\obj\Debug\net9.0\Labolatorium 1.sourcelink.json
