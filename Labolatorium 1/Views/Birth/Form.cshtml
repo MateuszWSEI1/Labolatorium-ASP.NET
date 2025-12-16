@@ -1,0 +1,28 @@
+@model Labolatorium_1.Models.Birth
+
+<div class="container">
+    <div class="row justify-content-md-center">
+        <div class="col-6">
+            <h2>Sprawdź swój wiek</h2>
+
+            @if(ViewBag.ErrorMessage != null)
+            {
+                <p class="text-danger">@ViewBag.ErrorMessage</p>
+            }
+
+            <form asp-action="Result" asp-controller="Birth" method="post">
+                <div class="mb-3">
+                    <label class="form-label" for="Name">Imię</label>
+                    <input class="form-control" type="text" name="Name" id="Name" value="@Model?.Name" required/>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" for="BirthDate">Data urodzenia</label>
+                    <input class="form-control" type="date" name="BirthDate" id="BirthDate" value="@Model?.BirthDate?.ToString("yyyy-MM-dd")" required/>
+                </div>
+                <div class="mb-3">
+                    <button class="btn btn-primary" type="submit">Oblicz wiek</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
