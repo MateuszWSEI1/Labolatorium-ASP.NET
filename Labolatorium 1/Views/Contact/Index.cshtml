@@ -1,0 +1,35 @@
+@model List<Labolatorium_1.Models.Contact>
+
+<h2>Lista kontaktów</h2>
+<a asp-action="Create" class="btn btn-primary mb-2">Dodaj nowy</a>
+
+@if (Model.Count > 0)
+{
+    <table class="table table-striped">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model[0].Name)</th>
+            <th>@Html.DisplayNameFor(model => model[0].Email)</th>
+            <th>@Html.DisplayNameFor(model => model[0].Priority)</th>
+            <th>@Html.DisplayNameFor(model => model[0].Created)</th>
+            <th>Akcje</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>@item.Priority</td>
+                <td>@item.Created</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Edytuj</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Szczegóły</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Usuń</a>
+                </td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <p>Brak kontaktów</p>
+}

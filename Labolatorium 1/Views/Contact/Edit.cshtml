@@ -1,0 +1,22 @@
+@model Labolatorium_1.Models.Contact
+
+<h2>Edytuj kontakt</h2>
+<form asp-action="Edit" method="post">
+    <input asp-for="Id" type="hidden"/>
+    <div>
+        <label asp-for="Name"></label>
+        <span asp-validation-for="Name" class="text-danger"></span>
+        <input asp-for="Name" class="form-control"/>
+    </div>
+    <div>
+        <label asp-for="Email"></label>
+        <span asp-validation-for="Email" class="text-danger"></span>
+        <input asp-for="Email" class="form-control"/>
+    </div>
+    <div>
+        <label asp-for="Priority"></label>
+        <span asp-validation-for="Priority" class="text-danger"></span>
+        <select asp-for="Priority" asp-items="@Html.GetEnumSelectList<Priority>()" class="form-control"></select>
+    </div>
+    <button type="submit" class="btn btn-primary">Zapisz</button>
+</form>

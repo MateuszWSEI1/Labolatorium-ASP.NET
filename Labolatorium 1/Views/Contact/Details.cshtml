@@ -1,0 +1,16 @@
+@model Labolatorium_1.Models.Contact
+
+<h2>Szczegóły kontaktu</h2>
+<div>
+    <strong>Imię:</strong> @Model.Name
+</div>
+<div>
+    <strong>Email:</strong> @Model.Email
+</div>
+<div>
+    <strong>Priorytet:</strong> @Model.Priority
+</div>
+<div>
+    <strong>Data utworzenia:</strong> @Model.Created
+</div>
+<a asp-action="Index" class="btn btn-secondary">Powrót</a>

@@ -1,0 +1,9 @@
+@model Labolatorium_1.Models.Contact
+
+<h2>Usuń kontakt</h2>
+<p>Czy na pewno chcesz usunąć kontakt @Model.Name?</p>
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id"/>
+    <button type="submit" class="btn btn-danger">Usuń</button>
+    <a asp-action="Index" class="btn btn-secondary">Anuluj</a>
+</form>
